@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @CorlisRay
-- 👀 I’m interested in web design
-- 🌱 I’m currently i'm not learning anything yet 
+- 👋 Hi, the whole world wide, I’m @cpwrld
+- 👀 I’m interested in learnind cyber security,i want to be a cyber security Agent
+- 🌱 currently No knowledge yet about how this work but i believe i want to be one the best tech in this world,open to learn from everyone on here 🙏
 - 💞️ I’m looking forward to learn from different people on here 
 - 📫 How to reach me @corlisray@gmial.com
 - 😄 Pronouns: Mr 
-- ⚡ Fun fact: i'm here to learn
-
-<!---
-CorlisRay/CorlisRay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+- ⚡ Fun fact: i'm here to learn, share knowledge and  contribute to the community 
+- i love this and i have passion to learn and leave a mark in this world 
+- cpwrld/cpwrld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.You can click the Preview link to take a look at your changes.
 --->
