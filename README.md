@@ -2,7 +2,7 @@
 - 👀 I’m interested in web design
 - 🌱 I’m currently i'm not learning anything yet 
 - 💞️ I’m looking forward to learn from different people on here 
-- 📫 How to reach me @corlisray@gmial.com
+- 📫 How to reach me @corlisray@gmail.com
 - 😄 Pronouns: Mr 
 - ⚡ Fun fact: i'm here to learn
 
